@@ -156,3 +156,28 @@
   - More practical if there is already a culture;
   - Pair programming increases productivity;
   - Review can be difficult to implement (fear, criticize);
+
+
+## Chap. 11 - Sec. Champion
+
+
+- The person who will (know | care) more about security ;
+- An organization specialist;
+  - From other parts of the organization;
+  - From outside;
+- Not an expert but a dev that worked on successful secure software;
+  - Export the processes used by the projects.
+- A normal dev who likes security and will be formed / financed by the company to learn;
+
+
+## Chap. 12 - Pen test
+
+
+- External people;
+- White hat team;
+- Red team - Simulates social engineering for attacks and other sophisticated tools;
+- Try to invade the system - Simulate hacker behaviour;
+- Hard to find white hats;
+- Can be costly;
+- Doesn't guarantee security;
+
