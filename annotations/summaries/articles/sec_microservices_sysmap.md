@@ -61,4 +61,31 @@
   - **Techniques (other domains);**
   - Tools;
   - Protocols;
-  - 
+  - Analysis (compare, discuss);
+
+- Solutions
+  - Authentication x Authorization
+  - Auditing: Discover gaps and initiate measures (automatically) or only report;
+  - Mitigation: Attacks happen in a limited environment;
+  - Prevention: New systems;
+
+- MSA Layers
+  - Microservice
+  - Composition
+  - API
+  - Communication
+  - Deployment -> Containers -> Configs and untrusted images
+
+
+## Discussion
+
+
+- Most attacks are internal - Minimum works about this;
+- External: Easier to be handled;
+- Insiders can have dangerous privileges and access to data exposure;
+- Software, user based, data attacks > infra
+- Suggestion: investigate all OWASP identified vulnerabilities with effects;
+- Low mitigation research;
+- Every study should do performance analysis;
+  
+
