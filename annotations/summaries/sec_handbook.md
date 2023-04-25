@@ -62,6 +62,7 @@
 - Threat modeling - personalized for the team context;
 - Manager needs to know.
 
+
 ### Essential way: Brainstorming;
 
 - Circle disposition; Whiteboard;
