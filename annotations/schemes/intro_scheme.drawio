@@ -1,0 +1,69 @@
+<mxfile host="Electron" modified="2023-04-26T11:51:08.786Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="O8xBw768zJLitd8DMwTA" version="21.2.1" type="device">
+  <diagram name="Page-1" id="o_8ZrXiDWsIdO757TCkm">
+    <mxGraphModel dx="701" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-1" target="2QSRHLRlH9eubT-iJdQv-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-3" target="2QSRHLRlH9eubT-iJdQv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-3" value="Arquitetura e metodologias ágeis" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="510" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-4" target="2QSRHLRlH9eubT-iJdQv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-4" target="2QSRHLRlH9eubT-iJdQv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-4" value="Microserviços e sistemas distribuídos" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="610" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-7" target="2QSRHLRlH9eubT-iJdQv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-7" value="Desafios de Qualidade nos microserviços" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-9" target="2QSRHLRlH9eubT-iJdQv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-9" target="2QSRHLRlH9eubT-iJdQv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-9" value="Desafios e vantagens de Segurança nos microserviços" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-11" target="2QSRHLRlH9eubT-iJdQv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-11" value="Objetivos" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2QSRHLRlH9eubT-iJdQv-13" target="2QSRHLRlH9eubT-iJdQv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-13" value="Resumo das seções" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="435" y="155" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-17" value="Esquema de SPD" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="619.23" y="-50" width="61.54" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2QSRHLRlH9eubT-iJdQv-19" value="Seg. em profundidade" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="719.23" y="250" width="61.54" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
